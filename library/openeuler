@@ -2,7 +2,7 @@
 Maintainers: Yikun Jiang <yikunkero@gmail.com> (@yikun)
 
 GitRepo: https://gitee.com/yikunkero/test-docker-images.git
-GitCommit:
+GitCommit: 6de69f56acfd6370c220a9f82cdc388e6e9e7ee9
 
 Tags: 20.03-LTS, 20.03, 20, latest
 Architectures: amd64, arm64v8
