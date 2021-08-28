@@ -1,6 +1,5 @@
 # see https://openeuler.org/en/releases.html
 Maintainers: Yikun Jiang <yikunkero@gmail.com> (@yikun)
-
 GitRepo: https://gitee.com/yikunkero/test-docker-images.git
 GitCommit: 6de69f56acfd6370c220a9f82cdc388e6e9e7ee9
 
@@ -9,7 +8,6 @@ Architectures: amd64, arm64v8
 # https://gitee.com/openeuler/openeuler-docker-images/tree/dist-amd64
 amd64-GitFetch: refs/heads/dist-amd64
 amd64-GitCommit: 6de69f56acfd6370c220a9f82cdc388e6e9e7ee9
-
 # https://gitee.com/openeuler/openeuler-docker-images/tree/dist-arm64
 arm64v8-GitFetch: refs/heads/dist-arm64
 arm64v8-GitCommit: ed756711390d6e756eb851b52db097d381cefcb7
