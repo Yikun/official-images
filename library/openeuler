@@ -1,7 +1,7 @@
 # see https://openeuler.org/en/releases.html
 Maintainers: Yikun Jiang <yikunkero@gmail.com> (@yikun)
 
-GitRepo: https://gitee.com/openeuler/openeuler-docker-images.git
+GitRepo: https://gitee.com/yikunkero/test-docker-images.git
 GitCommit:
 
 Tags: 20.03-LTS, 20.03, 20, latest
