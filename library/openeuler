@@ -7,7 +7,7 @@ amd64-GitFetch: refs/heads/dist-amd64
 amd64-GitCommit: 6de69f56acfd6370c220a9f82cdc388e6e9e7ee9
 # https://gitee.com/openeuler/openeuler-docker-images/tree/dist-arm64
 arm64v8-GitFetch: refs/heads/dist-arm64
-arm64v8-GitCommit: ed756711390d6e756eb851b52db097d381cefcb7
+arm64v8-GitCommit: cebb1bc74835579f446e6fb4550a219867663248
 
 # 21.03
 Tags: 21.03
