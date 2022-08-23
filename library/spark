@@ -4,9 +4,9 @@ GitRepo: https://github.com/Yikun/spark-docker.git
 Tags: 3.3.0, 3.3.0-scala2.12-java11, 3.3.0-scala2.12-java11-debian
 Architectures: amd64,arm64v8
 GitCommit: ee2384f9d61fd6a85a4c74fbd250ad7b80dd92a1
-Directory: ./3.3.0/scala_2.12-java11-debian
+Directory: ./3.3.0/scala2.12-java11-debian
 
 Tags: 3.3.0-scala2.12-java17, 3.3.0-scala2.12-java17-debian
 Architectures: amd64,arm64v8
 GitCommit: ee2384f9d61fd6a85a4c74fbd250ad7b80dd92a1
-Directory: ./3.3.0/scala_2.12-java17-debian
+Directory: ./3.3.0/scala2.12-java17-debian
