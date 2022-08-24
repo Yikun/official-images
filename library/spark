@@ -4,10 +4,10 @@ GitFetch: refs/heads/main
 
 Tags: 3.3.0, 3.3.0-scala2.12-java11, 3.3.0-scala2.12-java11-debian
 Architectures: amd64,arm64v8
-GitCommit: 2f447bfb45e22d384936d0e331bcbd5283d3a9dc
+GitCommit: e796f65b4c42a79f09d79d96d8f059369b21ff98
 Directory: ./3.3.0/scala2.12-java11-debian
 
 Tags: 3.3.0-scala2.12-java17, 3.3.0-scala2.12-java17-debian
 Architectures: amd64,arm64v8
-GitCommit: 2f447bfb45e22d384936d0e331bcbd5283d3a9dc
+GitCommit: e796f65b4c42a79f09d79d96d8f059369b21ff98
 Directory: ./3.3.0/scala2.12-java17-debian
