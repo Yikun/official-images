@@ -1,0 +1,23 @@
+Maintainers: Apache Spark Developers <dev@spark.apache.org> (@Yikun)
+GitRepo: https://github.com/Yikun/spark-docker.git
+GitFetch: refs/heads/master
+
+Tags: latest, 3.3.0, 3.3, scala2.12-java11-focal
+Architectures: amd64,arm64v8
+GitCommit: 813e0a42a50e6f62e1c5dff405afacb6d213a93f
+Directory: ./3.3.0/scala2.12-java11-focal
+
+Tags: scala2.12-java11-focal-slim
+Architectures: amd64,arm64v8
+GitCommit: 813e0a42a50e6f62e1c5dff405afacb6d213a93f
+Directory: ./3.3.0/scala2.12-java11-focal-slim
+
+Tags: scala2.12-java11-python3-focal
+Architectures: amd64,arm64v8
+GitCommit: 813e0a42a50e6f62e1c5dff405afacb6d213a93f
+Directory: ./3.3.0/scala2.12-java11-python3-focal
+
+Tags: scala2.12-java11-r-focal
+Architectures: amd64,arm64v8
+GitCommit: 813e0a42a50e6f62e1c5dff405afacb6d213a93f
+Directory: ./3.3.0/scala2.12-java11-r-focal
