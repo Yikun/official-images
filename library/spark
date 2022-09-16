@@ -4,20 +4,20 @@ GitFetch: refs/heads/master
 
 Tags: latest, 3.3.0, python3, 3.3.0-python3, 3.3.0-scala2.12-java11-python3-ubuntu
 Architectures: amd64,arm64v8
-GitCommit: 14bd240b9746aac1799c4c68e8c49d64671e9836
+GitCommit: 46d0e4463184419bd1e0dead2a0eeba5f2062b81
 Directory: ./3.3.0/scala2.12-java11-python3-ubuntu
 
-Tags: scala, 3.3.0-scala, 3.3.0-scala2.12-java11-ubuntu-slim
+Tags: scala, 3.3.0-scala, 3.3.0-scala2.12-java11-ubuntu
 Architectures: amd64,arm64v8
-GitCommit: 14bd240b9746aac1799c4c68e8c49d64671e9836
+GitCommit: 46d0e4463184419bd1e0dead2a0eeba5f2062b81
 Directory: ./3.3.0/scala2.12-java11-ubuntu-slim
 
 Tags: r, 3.3.0-r, 3.3.0-scala2.12-java11-r-ubuntu
 Architectures: amd64,arm64v8
-GitCommit: 14bd240b9746aac1799c4c68e8c49d64671e9836
+GitCommit: 46d0e4463184419bd1e0dead2a0eeba5f2062b81
 Directory: ./3.3.0/scala2.12-java11-r-ubuntu
 
 Tags: 3.3.0-scala2.12-java11-python3-r-ubuntu
 Architectures: amd64,arm64v8
-GitCommit: 14bd240b9746aac1799c4c68e8c49d64671e9836
+GitCommit: 46d0e4463184419bd1e0dead2a0eeba5f2062b81
 Directory: ./3.3.0/scala2.12-java11-python3-r-ubuntu
