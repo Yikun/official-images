@@ -1,0 +1,13 @@
+Maintainers: Apache Spark Developers <dev@spark.apache.org> (@Yikun)
+GitRepo: https://github.com/Yikun/spark-docker.git
+GitFetch: refs/heads/main
+
+Tags: 3.3.0, 3.3.0-scala2.12-java11, 3.3.0-scala2.12-java11-debian
+Architectures: amd64,arm64v8
+GitCommit: e796f65b4c42a79f09d79d96d8f059369b21ff98
+Directory: ./3.3.0/scala2.12-java11-debian
+
+Tags: 3.3.0-scala2.12-java17, 3.3.0-scala2.12-java17-debian
+Architectures: amd64,arm64v8
+GitCommit: e796f65b4c42a79f09d79d96d8f059369b21ff98
+Directory: ./3.3.0/scala2.12-java17-debian
