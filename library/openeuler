@@ -1,0 +1,20 @@
+# see https://openeuler.org/en/releases.html
+Maintainers: Yikun Jiang <yikunkero@gmail.com> (@yikun)
+GitRepo: https://gitee.com/yikunkero/test-docker-images.git
+GitCommit: f7f8ca3a89eb4d54a8311d2e70911ebb051ae28d
+# https://gitee.com/openeuler/openeuler-docker-images/tree/dist-amd64
+amd64-GitFetch: refs/heads/dist-amd64
+amd64-GitCommit: f7f8ca3a89eb4d54a8311d2e70911ebb051ae28d
+# https://gitee.com/openeuler/openeuler-docker-images/tree/dist-arm64
+arm64v8-GitFetch: refs/heads/dist-arm64
+arm64v8-GitCommit: 9f6c40dc745c4c456582d771c27d51279415537d
+
+# 21.03
+Tags: 21.03
+Architectures: amd64, arm64v8
+Directory: 21.03
+
+# 20.03-LTS-SP2
+Tags: 20.03, latest, 20.03-LTS-SP2
+Architectures: amd64, arm64v8
+Directory: 20.03-LTS-SP2
